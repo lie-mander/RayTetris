@@ -1,0 +1,5 @@
+﻿  GameMode.cpp
+L:\PROGRAMMING\RayTetris\RayTetris\GameMode.cpp(126,62): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  RayTetris.vcxproj -> L:\PROGRAMMING\RayTetris\x64\Debug\RayTetris.exe
